@@ -1,3 +1,5 @@
 html{
-    color:rgba(200,200,200,1);
+    color: #ff000f;
+    background-color: #000;
+    background-image: url("./ntfy.jpg");
 }
