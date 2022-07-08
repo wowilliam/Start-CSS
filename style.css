@@ -6,7 +6,8 @@ html{
     background-position: center;
     background-size: contain;
 }
-@font-face {
-    font-family: alexbrush;
-    src: url();
+main{
+    font-family: sans-serif;
+    font-weight: 900;
+
 }
