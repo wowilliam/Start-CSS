@@ -4,5 +4,6 @@ html{
     background-image: url("./ntfy.jpg");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
 }
 
