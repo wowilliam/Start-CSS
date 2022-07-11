@@ -20,3 +20,6 @@ h2{
 main{
   display: block;
 }
+p{
+text-transform: uppercase;
+}
