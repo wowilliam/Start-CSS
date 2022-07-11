@@ -11,3 +11,12 @@ main{
     font-size: 24px;
 
 }
+h2#titulo-primeira-aula{
+    text-decoration: line-through;
+}
+h2{
+    text-align: center;
+}
+main{
+  display: block;
+}
